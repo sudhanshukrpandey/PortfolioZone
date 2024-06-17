@@ -16,8 +16,8 @@ export const Work = [
         description:"Introducing the Secure Password Generator: your go-to tool for creating robust and unique passwords. Customize length and character types for maximum security. Strengthen your online defenses with ease!",
         tags:["JavaScript","Cryptographic Libraries"],
         
-        demo:"https://www.youtube.com/watch?v=3iQST4Lt5bU",
-        // github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"https://secure-password-generator-eta.vercel.app/",
+        github:"https://github.com/sudhanshukrpandey/Secure-Password-Generator"
         
     },
     {
