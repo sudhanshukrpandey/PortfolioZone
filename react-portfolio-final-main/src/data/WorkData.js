@@ -8,7 +8,7 @@ export const Work = [
         tags:["HTML","CSS","JavaScript","APIs"],
         
         demo:"https://climatescope.netlify.app/",
-        github:"https://github.com/sudhanshukrpandey/skycast"
+        // github:"https://github.com/sudhanshukrpandey/skycast"
     },
     {
         id:2,
@@ -17,7 +17,7 @@ export const Work = [
         tags:["JavaScript","Cryptographic Libraries"],
         
         demo:"https://secure-password-generator-eta.vercel.app/",
-        github:"https://github.com/sudhanshukrpandey/Secure-Password-Generator"
+        // github:"https://github.com/sudhanshukrpandey/Secure-Password-Generator"
         
     },
     {
@@ -27,7 +27,7 @@ export const Work = [
         tags:["GSAP","CSS","JS"],
         
         demo:"https://fluidstream.netlify.app/",
-        github:"https://github.com/sudhanshukrpandey/Liquid-Efffect"
+        // github:"https://github.com/sudhanshukrpandey/Liquid-Efffect"
     },
     // {
     //     id:4,
